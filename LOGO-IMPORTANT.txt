@@ -1,0 +1,1 @@
+Place your ORIGINAL Doctor Z logo image at public/logo.png. This original image was not present in the uploaded project archive. Header and footer both load that exact file.
